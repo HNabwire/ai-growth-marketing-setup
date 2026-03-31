@@ -26,8 +26,6 @@ Steps Completed
 - Assumed extensions would automatically log in after installation
 - Encountered difficulty locating certain commands (e.g., cloning repository)
 
----
-
  How I Solved Them
 - Explored the interface and used shortcuts (Ctrl + Shift + X, Ctrl + Shift + P)
 - Verified publishers (Anthropic and OpenAI) to identify credible extensions
@@ -35,15 +33,11 @@ Steps Completed
 - Located login prompts manually within the interface
 - Adapted by completing the task directly on GitHub when cloning was not successful
 
----
-
 Key Learnings
 - Working with new tools requires adaptability and patience
 - Clear documentation helps track progress and communicate effectively
 - Not all technical processes are linear, and progress can continue despite blockers
 - Evaluating tools based on credibility (publisher/source) is essential
-
----
 
 Next Steps
 - Resolve Claude verification issue and complete setup
