@@ -1,6 +1,6 @@
 ## Post 1
 Post Link: https://www.linkedin.com/posts/rosssimmonds_normalize-distributing-one-piece-of-content-activity-7449105299380224000-nHpv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1kWlsB3eTG7rR6KYq4IK5u4NC0ZAoRoWs
-Date:
+Date:April 13, 2026
 Normalize distributing one piece of content 50 times before creating a new one.  
 Everyone’s obsessed with “more content.” Your best post from 8 months ago hasn’t been seen by 95% of your audience…  
 Repost it. I beg you.
@@ -13,7 +13,7 @@ Repost it. I beg you.
 
   ## Post 2
 Post Link: https://www.linkedin.com/posts/rosssimmonds_visibility-in-llms-how-distribution-opens-activity-7448852393817063424-ctrF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1kWlsB3eTG7rR6KYq4IK5u4NC0ZAoRoWs
-Date: 
+Date: April 12, 2026
 
 Most B2B teams treat Reddit and YouTube like side projects.
 Meanwhile:
