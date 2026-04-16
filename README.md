@@ -43,3 +43,25 @@ Next Steps
 - Resolve Claude verification issue and complete setup
 - Explore practical applications of AI tools in marketing workflows
 - Expand this repository with real-world projects demonstrating AI-assisted growth strategies
+
+TASK TWO
+  Research Focus
+This project explores LinkedIn organic content strategy for B2B SaaS by analyzing high-performing creators across content, distribution, psychology, and monetization.
+
+ Why These Experts
+The selected experts were chosen based on:
+- Consistent LinkedIn presence
+- Proven experience in B2B marketing, SaaS, or content growth
+- High engagement and practical insights
+- Ability to provide diverse perspectives (content, psychology, AI, distribution, monetization)
+
+What Was Collected
+- LinkedIn posts from 10 experts (2 posts each)
+- Structured insights for each post
+- Organized research across multiple folders for clarity and future use
+
+Key Observations
+- High-performing posts combine storytelling + actionable insights
+- Short, structured formatting improves readability and engagement
+- Distribution is as important as content creation
+- Trust, credibility, and psychology play a major role in conversion
