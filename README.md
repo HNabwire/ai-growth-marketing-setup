@@ -67,3 +67,10 @@ The selected experts were chosen based on:
 - Short, structured formatting improves readability and engagement
 - Distribution is as important as content creation
 - Trust, credibility, and psychology play a major role in conversion
+
+- ## Data Collection Method
+Content was collected using a combination of:
+- Manual extraction from LinkedIn posts
+- AI-assisted workflow using Cursor IDE with Codex
+
+Due to API limitations on LinkedIn, manual collection was used to ensure accuracy and relevance of high-quality posts.
