@@ -1,7 +1,7 @@
 # Amanda Natividad – LinkedIn Posts
 ## Post 1
 Post Link: https://www.linkedin.com/posts/amandanat_your-brands-public-record-is-being-written-activity-7449837643539849216-uPeh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1kWlsB3eTG7rR6KYq4IK5u4NC0ZAoRoWs
-Date: [Add if visible]
+Date: April 15,2026
 
 Your brand’s public record is being written without you.
 You may think you’re shaping your brand through your website and your content. But increasingly, the internet is shaping it for you.
@@ -29,7 +29,7 @@ Hey, I know seven steps sounds like a lot. I won’t pretend it’s easy. For th
 
 ## Post 2
 Post Link: https://www.linkedin.com/posts/amandanat_had-a-really-fun-time-joining-wistias-talking-activity-7448021967753879552-BKI8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1kWlsB3eTG7rR6KYq4IK5u4NC0ZAoRoWs
-Date: [Add if visible]
+Date: April 10,2026
 
 Had a really fun time joining Wistia’s "Talking Too Loud" podcast.
 We got to talk about all things zero-click marketing, including:
